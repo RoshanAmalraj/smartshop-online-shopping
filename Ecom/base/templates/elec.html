@@ -1,0 +1,28 @@
+{% extends "main.html" %}
+{% block content %}
+<section class="bg-light py-4 my-5" style="min-height:600px;" >
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h4 class="mb-3">Smart Devices</h4>
+                <hr style="border-color:#b8bfc2;">
+                {% include "msg.html" %}
+            </div>
+            {% for item in electronic %}
+
+            <div class="col-md-4 col-lg-3">
+                <div class="card my-3">
+                    <img src="{{item.image.url}}" class="card-image-top" alt="samrt device" >
+                    <a href="{% url 'elecs' item.name %}">
+                    <div class="card-body">
+                        <h5 class="cart-title text-primary">{{item.name}}</h5>
+                        <p class="card-text">{{item.desc}}</p>
+                    </div>
+                </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endblock  %}
