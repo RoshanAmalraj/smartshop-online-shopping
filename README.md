@@ -16,7 +16,10 @@ Discover our range of premium smart devices, including cutting-edge phones for m
 # Run the code:
 After installation Run this code
 
-       ```python manage.py runserver```
+   ```
+       python manage.py runserver
+       
+   ```
 
 # Screen Shot:
 Home:
