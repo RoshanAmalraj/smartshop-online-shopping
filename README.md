@@ -24,3 +24,16 @@ After installation Run this code
 # Screen Shot:
 Home:
     ![home page](https://github.com/user-attachments/assets/c44a94cb-2687-4251-b246-9ce5ebfa82ad)
+
+Collection:
+    ![collection page](https://github.com/user-attachments/assets/b3919bbb-b134-47a3-bd89-d34e612caca6)
+
+Product:
+    ![product page](https://github.com/user-attachments/assets/54fda4e1-9a06-4eb3-be62-f9d03086b47a)
+
+Cart:
+    ![cart page](https://github.com/user-attachments/assets/821dca83-0fd3-492f-b092-d1f824b38a8f)
+
+Login:
+    ![login page](https://github.com/user-attachments/assets/d40b385b-11e0-4f75-8710-b607aae60de9)
+
