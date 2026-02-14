@@ -6,3 +6,16 @@ Discover our range of premium smart devices, including cutting-edge phones for m
 
 # Dependencies:
    Ensure you have Installed Python new version
+
+   Install below version in terminal and 'New Version will face version conflict error'
+   ```
+      pip install django
+      pip install pillow
+      pip install django-jazzmin
+  ```
+# Run the code:
+After installation Run this code
+   `python manage.py runserver`
+
+# Screen Shot:
+Home:
