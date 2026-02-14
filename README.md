@@ -23,7 +23,8 @@ After installation Run this code
 
 # Screen Shot:
 Home:
-    ![home page](https://github.com/user-attachments/assets/c44a94cb-2687-4251-b246-9ce5ebfa82ad)
+    ![home page](https://github.com/user-attachments/assets/f2dd1b9b-234a-4cc0-bbce-683d1b293a5f)
+
 
 Collection:
     ![collection page](https://github.com/user-attachments/assets/b3919bbb-b134-47a3-bd89-d34e612caca6)
@@ -41,5 +42,9 @@ Login:
 # Demo:
 
 
-https://github.com/user-attachments/assets/f398dec9-2492-4c9f-a6fe-804a2e48642e
+https://github.com/user-attachments/assets/69a17db1-bada-4f00-b57b-bf2b9b4b0675
+
+
+
+
 
