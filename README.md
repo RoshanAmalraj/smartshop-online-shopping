@@ -23,4 +23,4 @@ After installation Run this code
 
 # Screen Shot:
 Home:
-![home page](https://github.com/user-attachments/assets/c44a94cb-2687-4251-b246-9ce5ebfa82ad)
+    ![home page](https://github.com/user-attachments/assets/c44a94cb-2687-4251-b246-9ce5ebfa82ad)
